@@ -1,0 +1,4 @@
+.arrow-path:hover {
+  fill: red;
+  transition-duration: 300ms;
+}
